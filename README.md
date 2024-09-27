@@ -22,7 +22,7 @@
 
 4. Prepare input files:
 
-   - Open `src/credentials.ts` and an array of jwt tokens.
+   - Open `src/credentials.ts` and add an array of jwt tokens.
 
    Example `credentials.ts`:
    ```ts
